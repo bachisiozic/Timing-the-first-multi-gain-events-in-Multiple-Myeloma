@@ -7,14 +7,4 @@ Earlier studies, albeit on limited sample sizes, indicated a similar clock corre
 
 Developers: Maura Francesco and Ziccheddu Bachisio
 
-```
-packages <- c('readr', 'tidyr', "splitstackshape", "plyr", "dplyr", "ggplot2", "ggpubr", "reshape2", "magrittr", "lme4", "lmerTest", "knitr",
-              "ggplot2","reshape2", "MASS", "RColorBrewer", "stringr", "deconstructSigs", "BSgenome.Hsapiens.UCSC.hg19",
-              "stringi", "tibble", "pander", "RColorBrewer", "merTools")
-
-invisible(suppressWarnings(suppressMessages(lapply(packages, library, character.only = TRUE))))
-# upload file with the mutational signature contribution for each patient
-sig_age<- read.delim("timing_clock.txt")
-head(sig_age)
-```
 
