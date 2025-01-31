@@ -5,6 +5,6 @@ Most tumors and virtually all normal tissues accumulate mutations at a consisten
 
 Earlier studies, albeit on limited sample sizes, indicated a similar clock correlation in multiple myeloma (Rustad et al., Nat Comm 2020). Building upon these preliminary findings, our study delved into 421 whole-genome sequencing (WGS) samples from multiple myeloma patients to validate and expand upon these early observations. We demonstrate that the mutational burden represented by SBS1 and SBS5 can effectively serve as a temporal marker, aligning with findings in other cancer types.”
 
-Developers: Maura Francesco and Ziccheddu Bachisio
+Developers: Maura Francesco
 
 
